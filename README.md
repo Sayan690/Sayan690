@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Windows Malware Development and Windows Malware Analysis, as well as Network Pentesting, Programming, etc.<br>I am currently also working on creating new projects, as well as improving my previous projects.<br>I have an expertise in Python, C/C++ and C#, where I code most of my projects.<br>Ask me about Python, Network Troubleshooting, Linux System Administration, etc.<br>Fun Fact - Though my primary focus is on learning Windows Malware Development and Windows Malware Analysis, as well as playing CTFs on TryHackMe, HackTheBox and picoCTF, but I enjoy making hacking tools in various programming languages including but not limited to Python, C#, C/C++.
+I am currently learning Windows Malware Development and Windows Malware Analysis, as well as Network Pentesting, Programming, etc.<br>I like to play CTFs on TryHackMe, HackTheBox and picoCTF.<br>I have an expertise in Python, C/C++ and C#, where I code most of my projects.<br>Fun Fact - Though my primary focus is on Cyber Security, but I enjoy making hacking tools in various programming languages including but not limited to Python, C#, C/C++, more than that.
 
 
 ## 🌐 Socials:
